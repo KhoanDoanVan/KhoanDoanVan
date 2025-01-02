@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Apple_Developer_brandmark.svg/538px-Apple_Developer_brandmark.svg.png?20190418172319" alt="Apple Developer" width="200">
+  <img src="https://firebasestorage.googleapis.com/v0/b/ios-messengerclone.appspot.com/o/thumbnail_github_profile%2FScreenshot%202025-01-03%20at%2000.45.42.png?alt=media&token=275f3d23-ff4b-48ba-96aa-767eb61bd386" alt="Apple Developer" width="200">
 </div>
 
 # 💻 Tech Stack:
