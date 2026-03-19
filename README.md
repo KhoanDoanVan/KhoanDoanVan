@@ -1,7 +1,7 @@
-<div align="center">
+<div align="center" style="height: 300px; overflow: hidden;">
   <img 
-    src="cover.jpg" 
+    src="cover.jpg"
     alt="Apple Developer"
-    style="width: 100%; max-height: 300px; object-fit: contain;"
+    style="width: 100%;"
   >
 </div>
